@@ -1,0 +1,12 @@
+.bac{
+    background-image: url('../pic/bg.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.layer{
+background-color: rgba(0, 0, 0, 0.7);
+min-height: 100vh;
+width: 100%;
+}
